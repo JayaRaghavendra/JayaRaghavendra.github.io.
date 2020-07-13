@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+![Jaya Raghavendra](https://github.com/JayaRaghavendra/MyProfile/blob/master/assests/Jaya.jpg)
+<p align='center'>
+ 
 
-You can use the [editor on GitHub](https://github.com/JayaRaghavendra/JayaRaghavendra.github.io./edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<a href="https://www.linkedin.com/in/jayaraghavendra/"><img height="30" src="https://github.com/JayaRaghavendra/MyProfile/blob/master/icon/linkedin.png"></a>
+<a href="https://sourcerer.io/jayaraghavendra/" target="_blank"><img src="https://github.com/JayaRaghavendra/MyProfile/blob/master/icon/visual.png" align="left" height="30" width="30" ></a>
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
+<h2 style="text-align:center">Social Profiles</h2>
 
-### Markdown
+- [Kaggle](https://www.kaggle.com/jayaraghavendra)
+- [Visual Profile](https://sourcerer.io/jayaraghavendra/)
+- [jay.raghav333@gmail.com](mailto:jay.raghav333@gmail.com)
+- [Click to Chat](https://wa.me/7036563656?text=Hi Raghav. Let's have a quick chat.)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Hey there 👋,
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+ 
+ ---
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### About me 🌱
 
-[Link](url) and ![Image](src)
-```
+I write regular posts explaning Machine Learning concepts in simple ways, most of which you will find on my linkedin profile [here](https://www.linkedin.com/in/jayaraghavendra/)
+Connect with me if you are into Machine Learning, Natural Language Processing or Data Science, or want to discuss philosophy
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **machine learning**. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JayaRaghavendra/JayaRaghavendra.github.io./settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Some of my best works for the community:
 
-### Support or Contact
+- Trigram Language Model named [GPT-Free]()
+- Why you should [not be using nltk]()
+- Never forget [Precision & Recall]()
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Browse through my Github repositories for more.
+
+
+
+
+
+<p align='center'>
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=samacker77.visitor-badge">
+ <p/>
