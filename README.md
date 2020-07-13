@@ -28,7 +28,7 @@ I write regular posts explaning Machine Learning concepts in simple ways, most o
 Connect with me if you are into Machine Learning, Natural Language Processing or Data Science, or want to discuss philosophy
 
 
-I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **machine learning**. 
+I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **machine learning**.
 
 Some of my best works for the community:
 
