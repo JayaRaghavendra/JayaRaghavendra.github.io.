@@ -43,5 +43,5 @@ Browse through my Github repositories for more.
 
 
 <p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=samacker77.visitor-badge">
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=jayaraghavendra.visitor-badge">
  <p/>
